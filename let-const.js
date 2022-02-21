@@ -8,3 +8,5 @@ console.log(names);
 var num = 5;
 num = 6;
 console.log(num);
+
+
